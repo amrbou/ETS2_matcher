@@ -1,4 +1,4 @@
-A simple ETS2 tool to simplify mod loading order management for non-Steam Workshop mods or big mod combos like ProMods. If you've ever spent 20 minutes manually reordering mods to match a friend's setup, this is for you.
+A simple vibecoded ETS2 tool to simplify mod loading order management for non-Steam Workshop mods or big mod combos like ProMods. If you've ever spent 20 minutes manually reordering mods to match a friend's setup, this is for you.
 
 -Features
 
