@@ -26,3 +26,8 @@ Download the exe and run it, Windows SmartScreen will probably block it on first
 To sync with a friend, ask them to send you their profile.sii file located in Documents/Euro Truck Simulator 2/profiles/{their_profile_id}/profile.sii, select your own profile.sii in the first field, their file in the second, hit Synchronize
 To manage your load order manually, go to the Mod Manager tab, select your profile.sii, hit Load, then drag mods between the two lists and use the arrows to reorder, hit Apply when done
 Your original profile is always backed up as profile.sii.backup before anything is written
+
+<img width="664" height="585" alt="image" src="https://github.com/user-attachments/assets/10125d8a-1817-46d9-beb5-bb4084d745ce" />
+
+
+<img width="658" height="579" alt="image" src="https://github.com/user-attachments/assets/cb4592a4-28bb-477c-8c5a-c6cacbf6776e" />
